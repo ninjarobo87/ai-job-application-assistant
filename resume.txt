@@ -1,0 +1,50 @@
+AJ SHARMA
+Email: aj.sharma@email.com | LinkedIn: linkedin.com/in/ajsharma | GitHub: github.com/ajsharma
+
+SUMMARY
+IT professional with 13 years of experience in automation and process optimization.
+Recently specializing in RPA development with a focus on transitioning into Agentic AI and
+multi-agent systems. Strong background in workflow orchestration, bot lifecycle management,
+and end-to-end automation delivery.
+
+TECHNICAL SKILLS
+- RPA Tools: UiPath, Automation Anywhere, Blue Prism
+- Programming: Python, VBA, SQL
+- Concepts: Process orchestration, bot monitoring, exception handling, workflow design
+- Familiar with: REST APIs, JSON, Git, JIRA
+- Currently learning: LangChain, CrewAI, OpenAI/Anthropic APIs, LangGraph, FastAPI, Docker
+
+EXPERIENCE
+
+RPA Developer | [Company Name] | 2021 – Dec 2025
+- Designed and deployed 20+ automation bots using UiPath and Automation Anywhere,
+  reducing manual processing time by 60% across finance and HR departments.
+- Orchestrated multi-bot workflows with dependency management, scheduling, and retry logic —
+  similar in concept to multi-agent pipeline design.
+- Built error handling and logging frameworks for bot reliability monitoring.
+- Collaborated with business analysts to translate complex business processes into
+  automated workflows (equivalent to task decomposition in agent design).
+- Managed bot performance dashboards and stakeholder reporting.
+
+Senior Process Analyst | [Company Name] | 2016 – 2021
+- Led process discovery and redesign initiatives, identifying automation opportunities
+  across 8 business units.
+- Created detailed process documentation and flowcharts used as blueprints for automation.
+- Trained and upskilled junior analysts in process mapping and RPA fundamentals.
+
+IT Analyst | [Company Name] | 2012 – 2016
+- Provided Tier 2 IT support and managed internal tooling for 500+ users.
+- Automated routine reporting tasks using VBA macros, reducing report generation time by 40%.
+
+EDUCATION
+Bachelor of Technology (B.Tech) | Computer Science | [University Name] | 2012
+
+CERTIFICATIONS
+- UiPath Certified RPA Developer
+- Automation Anywhere Certified Advanced RPA Professional
+- Currently pursuing: DeepLearning.AI — LangChain for LLM Application Development
+
+PROJECTS (IN PROGRESS)
+- AI Job Application Assistant: Multi-agent system using CrewAI that analyzes job descriptions,
+  matches resumes, generates cover letters, and prepares interview questions.
+  Tech stack: Python, CrewAI, OpenAI API, BeautifulSoup.
